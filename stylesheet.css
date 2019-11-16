@@ -1,0 +1,28 @@
+body 
+	{
+		background-color: lightblue ;
+		background-image:url("reg2.jpg");
+		  
+		}
+
+		h1 
+		{
+		  color: green;
+		  text-align: center;
+		}
+		td{
+		
+			border: 1px;
+			padding: 6px;
+		}
+	table	{
+  font-size:19;
+}
+button
+{
+	font-size:18px;
+	text-align:center;
+	background-color:green;
+	color:white;
+	margin:4px 2px;
+}

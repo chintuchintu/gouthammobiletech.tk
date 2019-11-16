@@ -1,0 +1,20 @@
+h1{
+	 color: green;
+		  text-align: center;
+		  font-size:50px;
+		  background-color:skyblue;
+		}
+
+
+
+body 
+	{
+		background-image:url("reg2.jpg");
+		margin:10;
+		  
+		}
+		
+		div{
+			font-size:20px;
+		}
+		
